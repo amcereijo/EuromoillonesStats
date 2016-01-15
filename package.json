@@ -1,0 +1,12 @@
+{
+  "name": "EuromoillonesStats",
+  "version": "1.0.0",
+  "description": "Check euromillones statistic from http://www.lotoideas.com/euromillones-resultados-historicos-de-todos-los-sorteos/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": "node index.js"
+  },
+  "author": "amcereijo@gmail.com",
+  "license": "ISC"
+}
